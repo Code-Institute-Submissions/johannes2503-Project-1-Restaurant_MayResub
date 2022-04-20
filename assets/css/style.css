@@ -9,6 +9,26 @@
 
 body {
     font-family: 'Montserrat', sans-serif;
-    font-family: 'Parisienne', cursive;
     font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+}
+
+#logo {
+    font-family: 'Parisienne', cursive;
+    float: left;
+
+}
+
+#navbar {
+    height: 70px;
+    width: 100%;
+   
+}
+
+#navbar ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    list-style: none;
+    
 }
