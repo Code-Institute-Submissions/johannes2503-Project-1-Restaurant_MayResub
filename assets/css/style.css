@@ -1,3 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Parisienne&family=Poppins:wght@300&display=swap');
+
+
 * {
-    background-color: red;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Parisienne', cursive;
+    font-family: 'Poppins', sans-serif;
 }
