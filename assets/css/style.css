@@ -40,6 +40,7 @@ header {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
+    flex-wrap: wrap;
     color: black;
     padding: 5px;
    
@@ -60,7 +61,7 @@ header {
     color: inherit;
 }
     
-/* Styles for hero and cover text section */
+/* Hero and cover text section */
 
 #hero-outer {
     height: 580px;
@@ -76,4 +77,65 @@ header {
     background: url(../images/hero-image.png) no-repeat center center;
     padding: 0;
     margin: 0;
+}
+
+
+/* Owner, welcome and menu download section */
+
+#menus-pdf {
+    background-color: #9D8956;
+}
+
+#menus-pdf div {
+    height: 70px;
+    width: 100%;
+
+}
+
+#menu-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    color: black;
+    padding: 5px;
+   
+}
+
+#menu-container li {
+    list-style: none;
+    text-transform: uppercase;
+    margin-top: 20px;
+    padding-bottom: 20px;
+}
+
+
+#menu-container a {
+    text-decoration: none;
+    color: #fff;
+}
+
+#welcome {
+    height: 580px;
+    width: 100%;
+    overflow: hidden;
+
+}
+
+#owner-image {
+    float: left;
+    height: 400px;
+    width: 500px;
+    background: url(../images/owner.jpg) no-repeat center center;
+    margin: 70px;
+    border-radius: 20px;
+}
+
+#welcome-text {
+    margin: 70px;
+    
+}
+
+#welcome-text h2 {
+    margin-bottom: 30px;
 }
