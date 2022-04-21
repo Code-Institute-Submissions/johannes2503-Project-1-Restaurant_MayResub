@@ -116,6 +116,9 @@ header {
 }
 
 #welcome {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
     height: 580px;
     width: 100%;
     overflow: hidden;
@@ -123,7 +126,6 @@ header {
 }
 
 #owner-image {
-    float: left;
     height: 400px;
     width: 500px;
     background: url(../images/owner.jpg) no-repeat center center;
@@ -133,9 +135,7 @@ header {
 
 #welcome-text {
     height: 400px;
-    max-width: 500px;
-    margin: 90px;
-    float: right;
+    margin-top: 90px;
 }
 
 #welcome-text h2 {
