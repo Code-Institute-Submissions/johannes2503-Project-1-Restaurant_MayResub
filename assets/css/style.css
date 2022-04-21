@@ -127,18 +127,25 @@ header {
     height: 400px;
     width: 500px;
     background: url(../images/owner.jpg) no-repeat center center;
-    margin: 70px;
+    margin: 90px;
     border-radius: 20px;
 }
 
 #welcome-text {
-    margin: 70px;
-    
+    height: 400px;
+    max-width: 500px;
+    margin: 90px;
+    float: right;
 }
 
 #welcome-text h2 {
     margin-bottom: 30px;
     font-family: Parisienne, cursive;
-    font-size: 48px;
+    font-size: 3.5rem;
+   
+}
+
+#welcome-text p {
+    font-size: 1.2rem;
     
 }
