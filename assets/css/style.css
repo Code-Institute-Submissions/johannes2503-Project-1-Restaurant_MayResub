@@ -257,7 +257,7 @@ header {
 #footer-cards {
     display: flex;
     flex-direction: row;
-    justify-content: space-evenly;
+    justify-content: space-around;
     align-items: center;
     height: 260px;
    
