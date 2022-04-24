@@ -309,6 +309,10 @@ header {
        
     }
 
+    .footer-location {
+        margin-left: 20px;
+    }
+
 }
 
 /* For medium screen sizes from 820px wide and down */
@@ -371,7 +375,7 @@ header {
     .footer-card {
         height: 160px;
         width: 80%;
-        font-size: 80%;
+        font-size: 75%;
     }
 
     .footer-location {
@@ -388,7 +392,6 @@ header {
         padding:  0 4rem 0 0;
         
     }
-
 
 }
 
@@ -454,6 +457,5 @@ header {
         padding-top: 20px;
        margin: 0 auto;
     }
-
 
 }
