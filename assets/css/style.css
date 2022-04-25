@@ -396,7 +396,7 @@ header {
 }
 
 /* For medium screen sizes from 480px wide and down */
-@media screen and (max-width: 480px) {
+/* @media screen and (max-width: 480px) {
 
     header {
         width: 100%;
@@ -492,4 +492,4 @@ header {
     .footer-contact {
         padding-top: 20px;
       
-    }
+    } */
