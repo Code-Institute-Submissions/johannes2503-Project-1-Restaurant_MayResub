@@ -127,7 +127,7 @@ header {
 
 #owner-image {
     height: 400px;
-    width: 500px;
+    width: 700px;
     background: url(../images/owner.jpg) no-repeat center center;
     margin: 90px;
     border-radius: 20px;
@@ -493,5 +493,3 @@ header {
         padding-top: 20px;
       
     }
-
-
