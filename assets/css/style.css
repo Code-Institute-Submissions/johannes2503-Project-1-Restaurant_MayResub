@@ -394,7 +394,7 @@ header {
 }
 
 /* For medium screen sizes from 480px wide and down */
-/* @media screen and (max-width: 480px) {
+@media screen and (max-width: 480px) {
 
     header {
         width: 100%;
@@ -422,8 +422,6 @@ header {
         margin: 0;
     }
     
-    }
-
     #menu-container a {
        font-size: 80%;
     }
@@ -435,11 +433,11 @@ header {
     }
 
     #owner-image {
-        height: 250px;
+        height: 80%;
         width: 80%;
-        margin: 50px;
+        margin: 40px;
         background-size: cover;
-       
+        
     }
 
     #welcome-text {
@@ -490,4 +488,5 @@ header {
     .footer-contact {
         padding-top: 20px;
       
-    } */
+    }
+}
