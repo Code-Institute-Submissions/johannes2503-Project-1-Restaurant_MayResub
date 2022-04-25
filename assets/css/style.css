@@ -319,12 +319,10 @@ header {
     }
 
     #welcome {
-        display: flex;
         flex-direction: column;
         justify-content: space-between;
         height: 800px;
         width: 100%;
-        overflow: hidden;
     }
 
     #owner-image {
