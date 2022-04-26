@@ -113,8 +113,29 @@ header {
     text-decoration: none;
     color: #fff;
 }
-    
 
+/* Menu section */
+
+#menu {
+    display: flex;
+    flex-direction: row;
+    height: 580px;
+}
+
+.menu-section-left {
+    width: 50%;
+}
+
+.table {
+    width: 100%;
+}
+
+.menu-item h2 {
+    text-align: center;
+    font-family: Parisienne, cursive;
+    font-size: 3rem;
+    color: #364933
+}
 
 /* Footer section */
 
