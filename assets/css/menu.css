@@ -134,7 +134,16 @@ header {
     text-align: center;
     font-family: Parisienne, cursive;
     font-size: 3rem;
-    color: #364933
+    color: #364933;
+    padding-top: 2%;
+}
+
+.menu-image {
+    background: url(../images/starters.png) no-repeat center center;
+    background-size: contain;
+    width: 45%;
+    height: 90%;
+    margin: 2%;
 }
 
 /* Footer section */
