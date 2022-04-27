@@ -152,6 +152,13 @@ header {
    margin: 3px 0;
 
 }
+
+#submit {
+    background-color: #364933;
+    color: #fff;
+    
+}
+
 #form-input textarea {
     border-radius: 5px;
 }
@@ -224,9 +231,25 @@ header {
 /* For medium screen sizes from 820px wide and down */
 @media screen and (max-width: 820px) {
 
-   
+    /* Reservations Form Section */
 
-   
+
+    .contact-form {
+        width: 70%;
+    
+    }
+
+    .reservations-text h2 {
+        font-size: 2.5rem;
+    
+    }
+
+    #form-input input {
+        width: 90%;
+        height: 20px;
+        margin: 3px 0;
+
+    }
 
     #footer {
         height: 180px;
@@ -281,36 +304,90 @@ header {
        font-size: 80%;
     }
 
+    #hero-outer {
+        height: 300px;
+        width: 100%;
+    }
+
+    #hero-image {
+        height: 400px;
+        width: 100%;
+        background-size: contain;
+        padding: 0;
+        margin: 0;
+    }
+
+/* Reservations Form Section */
+
+
+    .contact-form {
+        border-radius: 20px;
+        width: 70%;
+        height: 65%;
+        margin: 20px auto;
+        background-color: #9D8956;
+    
+    }
+
+    .reservations-text h2 {
+        font-size: 2.5rem;
+    
+    }
+
+    #form-input {
+    margin: 10px auto;
+    padding: 20px;
+    font-size: 0.8rem;
+    }
+
+    #form-input input {
+        border: none;
+        border-radius: 5px;
+        width: 90%;
+    height: 20px;
+    margin: 3px 0;
+
+    }
+
+    #submit {
+        background-color: #364933;
+        color: #fff;
+        
+    }
+
+    #form-input textarea {
+        border-radius: 5px;
+    }
+
+
     #footer {
-        height: 500px;
-    
-    
+            height: 500px; 
+        
     }
 
     .cards {
-        margin: 20px 0 20px 0;
+            margin: 20px 0 20px 0;
     }
 
     #footer-cards {
-        width: 100%;
-        flex-direction: column;
-        justify-content: space-between;
-        
+            width: 100%;
+            flex-direction: column;
+            justify-content: space-between;
+            
     }
 
     .footer-location {
-        padding-top: 20px;
-       
-    
-    }
-
-    .footer-social {
-        padding-top: 20px;
+            padding-top: 20px;
+        
         
     }
 
+    .footer-social {
+            padding-top: 20px;
+            
+    }
+
     .footer-contact {
-        padding-top: 20px;
-      
+            padding-top: 20px;
     }
 }
