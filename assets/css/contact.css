@@ -163,6 +163,10 @@ header {
     
 }
 
+#message {
+    resize: none;
+    width: 40%;
+}
 
 
 /* Footer section */

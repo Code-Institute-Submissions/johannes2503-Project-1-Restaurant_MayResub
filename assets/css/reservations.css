@@ -154,6 +154,11 @@ header {
 
 }
 
+#message {
+    resize: none;
+    width: 40%;
+}
+
 #submit {
     background-color: #364933;
     color: #fff;
