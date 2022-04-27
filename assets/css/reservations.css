@@ -139,9 +139,10 @@ header {
 }
 
 #form-input {
-  margin: 10px auto;
-  padding: 20px;
-  font-size: 0.9rem;
+    text-align: center;
+    margin: 10px auto;
+    padding: 20px;
+    font-size: 0.9rem;
 }
 
 #form-input input {

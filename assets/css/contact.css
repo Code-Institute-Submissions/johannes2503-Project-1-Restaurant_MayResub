@@ -114,7 +114,7 @@ header {
     color: #fff;
 }
    
-/* Reservations Form Section */
+/* Contact Form Section */
 
 #contact {
     width: 100%;
@@ -155,6 +155,12 @@ header {
 }
 #form-input textarea {
     border-radius: 5px;
+}
+
+#submit {
+    background-color: #364933;
+    color: #fff;
+    
 }
 
 
