@@ -114,7 +114,29 @@ header {
     color: #fff;
 }
     
+/* Form section */
 
+#reservations {
+    width: 100%;
+    height: 580px;
+}
+
+.contact-form {
+    border: 1px solid black;
+    border-radius: 20px;
+    width: 80%;
+    height: 80%;
+    margin: 0 auto;
+   
+}
+
+.reservations-text h2 {
+    text-align: center;
+    font-family: Parisienne, cursive;
+    font-size: 3rem;
+    color: #364933;
+    padding-top: 2%;
+}
 
 /* Footer section */
 
