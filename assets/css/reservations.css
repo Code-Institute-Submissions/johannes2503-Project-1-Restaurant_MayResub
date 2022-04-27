@@ -114,7 +114,7 @@ header {
     color: #fff;
 }
     
-/* Form section */
+/* Reservations Form Section */
 
 #reservations {
     width: 100%;
@@ -122,11 +122,11 @@ header {
 }
 
 .contact-form {
-    border: 1px solid black;
     border-radius: 20px;
-    width: 80%;
-    height: 80%;
-    margin: 0 auto;
+    width: 50%;
+    height: 65%;
+    margin: 20px auto;
+    background-color: #9D8956;
    
 }
 
@@ -136,6 +136,24 @@ header {
     font-size: 3rem;
     color: #364933;
     padding-top: 2%;
+}
+
+#form-input {
+  margin: 10px auto;
+  padding: 20px;
+  font-size: 0.9rem;
+}
+
+#form-input input {
+    border: none;
+    border-radius: 5px;
+    width: 40%;
+   height: 20px;
+   margin: 3px 0;
+
+}
+#form-input textarea {
+    border-radius: 5px;
 }
 
 /* Footer section */
