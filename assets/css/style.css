@@ -363,6 +363,10 @@ header {
     #footer {
         height: 180px;
     }
+
+    #footer-text {
+        font-size: 85%;
+    }
  
     #footer-cards {
         justify-content: space-evenly;
@@ -430,6 +434,11 @@ header {
         flex-direction: column;
         height: 600px; 
        
+    }
+
+    #welcome-text p {
+        font-size: 95%;
+        
     }
 
     #owner-image {
