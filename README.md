@@ -1,15 +1,14 @@
 # **_Restaurant_**
 
-Wawas Woods is a small business set up to create custom made wooden items. The site is targeted at the prospective buyer who is in the market for something tailored to their exacting requirements. Wawas Woods will be useful to help guide people through from project inception to delivery.
+Restaurant is a resataurant located in a small fishing village in Grindavik Iceland. It was founded by the owner Láki in 2009. Their speciality is fish courses. Cod in particular. They strive to deliver excellent service and quality food.
 
 Welcome to the journey through <a href="https://johannes2503.github.io/Project-1-Restaurant/" target="_blank" rel="noopener">Restaurant</a>
 
-![Wawas Woods responsive design](./assets/readme-images/responsive.png)
+![Restaurants responsive design](./assets/readme-images/responsive.png)
 
 # Contents
 
 * [**User Experience UX**](<#user-experience-ux>)
-    *  [User Stories](<#user-stories>)
     * [Wireframes](<#wireframes>)
     * [Site Structure](<#site-structure>)
     * [Design Choices](<#design-choices>)
@@ -47,26 +46,12 @@ Welcome to the journey through <a href="https://johannes2503.github.io/Project-1
 
 # User Experience (UX)
 
-## User Stories
-
-* As a user I want to be able to navigate through the whole site smoothly.
-* As a user I want to understand the purpose of the site upon loading it.
-* As a user I want to easily be able to contact Wawas Woods for more information.
-* As a user I want to see existing pieces of Wawas Woods' work.
-* As a user I want to know more about Wawas Woods.
-* As a user I want to know how other peoples' experiences with Wawas Woods has been.
-* As a user I want to connect with Wawas Woods on social media.
-* As a user I want to know the process of converting some wood into a finished project.
-
-[Back to top](<#contents>)
 
 ## Wireframes
 
-The wireframes for Wawas Woods were produced in [Balsamiq](https://balsamiq.com). There are frames for a full width display and a small mobile device. The final site varies slightly from the wireframes due to developments that occured during the creation process. 
+The wireframes for Restaurant were produced in [Figma](https://figma.com). There are frames for a full width display. The final site varies slightly from the wireframes due to developments that occured during the creation process. 
 
-![Desktop wireframe image](assets/readme-images/desktop-wireframes.png)
-
-![Mobile wireframe image](assets/readme-images/mobile-wireframes.png) 
+![Desktop wireframe image](./assets/readme-images/wireframes.png)
 
 [Back to top](<#contents>)
 
