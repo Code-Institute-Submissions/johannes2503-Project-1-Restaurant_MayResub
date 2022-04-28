@@ -4,7 +4,7 @@ Wawas Woods is a small business set up to create custom made wooden items. The s
 
 Welcome to the journey through <a href="https://johannes2503.github.io/Project-1-Restaurant/" target="_blank" rel="noopener">Restaurant</a>
 
-![Wawas Woods responsive design](assets/readme-images/responsive.png)
+![Wawas Woods responsive design](./assets/readme-images/responsive.png)
 
 # Contents
 
