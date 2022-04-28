@@ -312,10 +312,53 @@ header {
 .menu-meat-image {
     background: url(../images/meat.png) no-repeat center center;
     background-size: contain;
+    width: 45%;
+    height: 95%;
+    margin: 2%;
+}
+
+.menu-fish-image {
+    background: url(../images/fish.png) no-repeat center center;
+    background-size: contain;
+    width: 45%;
+    height: 95%;
+    margin: 2%;
+}
+
+.menu-grill-image {
+    background: url(../images/grill.png) no-repeat center center;
+    background-size: contain;
+    width: 50%;
+    height: 95%;
+    margin: 0 5% 0 5%;
+    
+}
+
+.menu-vegetarian-image {
+    background: url(../images/vegan.jpeg) no-repeat center center;
+    background-size: cover;
+    width: 45%;
+    height: 90%;
+    margin: 2%;
+}
+
+.menu-children-image {
+    background: url(../images/children.png) no-repeat center center;
+    background-size: contain;
     width: 50%;
     height: 95%;
     margin: 2%;
 }
+
+.menu-dessert-image {
+    background: url(../images/dessert.png) no-repeat center center;
+    background-size: contain;
+    width: 50%;
+    height: 95%;
+    margin: 2%;
+}
+
+
 
 /* reservations.html - Reservations Form Section */
 
