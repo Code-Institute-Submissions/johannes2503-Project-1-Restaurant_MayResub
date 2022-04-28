@@ -95,82 +95,67 @@ Restaurants site is set up to be welcoming and easy to use. It contains many fea
       * Located on the home page beneath the title section. It is supposed to invite the user to have a enjoyable evening in the good hands of the owner.
       
 
-![Gallery image](./assets/readme-images/owner-welcome.png)
+![Owners welcome image](./assets/readme-images/owner-welcome.png)
+
 [Back to top](<#contents>)
 
-  * ### About-Us
-    * The About Us section lets the user know what Wawas Woods is and who we are. 
-    * The combination of a family picture and the text will draw the user in further by instilling a confidence that the project will be taken care of by a small family business.
-    * An inbedded link to the contact section in the text will help the user navigate quickly to the next step of the project process.
+  * ### Reviews
+    * The reviews section adds to the trust that Restaurant is a place of excellent service and food. 
 
-![About-Us image](assets/readme-images/about-us.png)
-[Back to top](<#contents>)
+![Reviews image](./assets/readme-images/reviews.png)
 
-  * ### Testimonials
-
-    * The testimonials section provides the user with some feedback from previous clients. There are three testimonials displayed giving a name, project name and some text.
-    * They are styled with a box shadow to 'detach' them from the site to instill a sense of impartiality in the user.
-    * The testimonals will be updated as more recent testimonials become available.
-
-![Testimonials section image](assets/readme-images/testimonials.png)
 [Back to top](<#contents>)
 
 * ### Footer
     
     * Contains social media links. To enhance the UX the links open in other tabs.
-    * The social media presence will help the user with their research into Wawas Woods and will also encourage them to connect with Wawas Woods.
-    * To help the user with navigation on all devices a 'scroll to the top' arrow was added. It sticks to the bottom left of the screen at all times to give the user a quick and unobstructed way to the navigation bar. The arrow is semi-transparent with a light/dark contrasting border for use against all background colours.
-    * The GitHub and LinkedIn social links are there for the educational side of this project. They would be removed if this site was deployed outside of this project.
+    * The social media presence will help the user with their research into Restaurant.
+    * The footer also contains information about opening hours and contact info.
     
-![Footer image](assets/readme-images/footer.png)
+![Footer image](./assets/readme-images/footer.png)
+
 [Back to top](<#contents>)
 
-* ### Projects
+* ### Menu page
+    
+    * The menu page contains every course that the restaurant offers.
+    * The menu items alternate to be more interesting to the user.
 
-    * The projects page give the user an idea of the recent projects that have been worked on. It also shows a number of different wood working techniques and finishes to help inspire the user's design.
-    * There are images of the recent projects. To help enhance the UX two slideshows have been added to allow the user to see more images of two of the pieces.
-    * This section would be updated periodically to reflect new recently finished projects.
+![Menu page image](./assets/readme-images/menu-item.png)
 
-![Projects page image](assets/readme-images/projects4.png)
 [Back to top](<#contents>)
 
-* ### Inspiration
-    * The inspiration page is mainly there to demonstrate how a project starts and what is required to transform it into a finished project. It should inspire the user with the images of unfinished wood and get the user to imagine how that would look as a finished product.
-    * It also contains a brief description of how the project would be constructed to give the user a rough idea of what goes on behind the scenes.
+* ### Reservations page
 
-![Inspiration page image](assets/readme-images/inspiration.png)
+    * On the reservations page users can order a table at the restaurant.
+    * The form askes for information from the user. First name, last name and so on and sends it then on to the restaurant when the user clicks send.
+    * The user can pick a date and time from a calendar picker.
+
+![Reservations page image](./assets/readme-images/reservations.png)
+
 [Back to top](<#contents>)
 
-* ### Contact Us
+* ### Contact us page
 
-    * This section should complete the online journey for the user. It has a map (location of real life workshop not shown due to privacy reasons), address, phone number and email address details.
-    * In case the user would like to contact Wawas Woods directly there is an e-mail link icon. It opens the user's default email provider with an email addressed to Wawas Woods.
-    * There is a form that the user can choose to fill in. It has 5 input fields, name, email, address, callback and a textarea. The call back button lets Wawas Woods know if the user would like a callback.
+    * On the contact page users can contact the restaurant.
+    * The form askes for information from the user. First name, last name and so on and sends it then on to the restaurant when the user clicks send.
 
-![Contact Us page image](assets/readme-images/contact-us2.png)
-[Back to top](<#contents>)
+![Contact page image](./assets/readme-images/contact.png)
 
-* ### Form Confirmation
-    * This page confirms for the user that their details have been sent to Wawas Woods. For this project it validates the form only.
-    * It provides a direct link back to the contact page as well as the normal navigation menu links in the header and footer.
-
-![Form confirmation image](assets/readme-images/form-confirmation.png)
 [Back to top](<#contents>)
 
 ## Future Features 
 
-* A 'Shop' section for projects that have been completed and are ready for purchasing.
-    * This would incorporate an e-commerce platform and an enhanced gallery page.
-* An option to live stream the workshop.
-    * Particularly of interest to those whose projects are underway.
-* Introduce swipe actions for use on mobile devices for the project sliders.
+* A 'Order' section so the user can order takeaway food.
+    * This would incorporate an e-commerce platform and an enhanced menu page.
+* Introduce swipe actions for use on mobile devices for the menu items sliders.
 
 [Back to top](<#contents>)
 
 # Technologies Used
 * [HTML5](https://html.spec.whatwg.org/) - provides the content and structure for the website.
 * [CSS](https://www.w3.org/Style/CSS/Overview.en.html) - provides the styling.
-* [Balsamiq](https://balsamiq.com/wireframes/) - used to create the wireframes.
+* [Figma](https://figma.com) - used to create the wireframes.
 * [Gitpod](https://www.gitpod.io/#get-started) - used to deploy the website.
 * [Github](https://github.com/) - used to host and edit the website.
 
