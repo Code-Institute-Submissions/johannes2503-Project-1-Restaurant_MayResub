@@ -1,6 +1,6 @@
 # **_Restaurant_**
 
-Restaurant is a resataurant located in a small fishing village in Grindavik Iceland. It was founded by the owner Láki in 2009. Their speciality is fish courses. Cod in particular. They strive to deliver excellent service and quality food.
+Restaurant is a restaurant located in a small fishing village in Grindavik Iceland. It was founded by the owner Láki in 2009. Their speciality is fish courses. Cod in particular. They strive to deliver excellent service and quality food.
 
 Welcome to the journey through <a href="https://johannes2503.github.io/Project-1-Restaurant/" target="_blank" rel="noopener">Restaurant</a>
 
@@ -57,27 +57,28 @@ The wireframes for Restaurant were produced in [Figma](https://figma.com). There
 
 ## Site Structure
 
-Wawas Woods website has four pages. The [home page](index.html) is the default loading page, [projects](projects.html), [inspiration](inspiration.html) and [contact](contact.html) pages are all accessible primarily from the navigation menu. There is another link to the contact page in the 'About-us' section to give the user some guidance to the next step of the journey. 
-On every page there is also a 'back to the top arrow' in the bottom left corner.
+Wawas Woods website has four pages. The [home page](./index.html) is the default loading page, [Menu page](./menu.html), [Reservations](./reservations.html) and [contact](./contact.html) pages are all accessible primarily from the navigation menu.
 
 [Back to top](<#contents>)
+
 ## Design Choices
 
  * ### Typography
-      The fonts chosen were 'Caveat' for the headings and 'Lato' for the body text. They fall back to cursive and sans-serif respectively. 
-     *  'Caveat' was chosen for the headings to give the user an inital welcoming feel. The cursive style generally feels more inviting and less intimidating for the user than others.
-      * 'Lato' is used for the body text as it provides a nice contrast to the cursive whilst being easy to read for all.
+      The fonts chosen were 'Parisienne' for the main heading and 'Poppins' for the headings and text. They fall back to cursive and sans-serif respectively. 
+     *  ''Parisienne' was chosen for the headings to give the user an inital welcoming feel. The cursive style generally feels more inviting and less intimidating for the user than others.
+      * 'Poppins' is used for the body text as it provides a nice contrast to the cursive whilst being easy to read for all.
 
  * ### Colour Scheme
-      The colour scheme eventually chosen is one based on green and off-white. The colour contrasts with the wood colour in many of the images. Green traditionally gives the impression of energy, safety and growth. This is something that Wawas Woods can hopefully pass onto the user.
+      The colour scheme eventually chosen is one based on green and off-white. The colour contrasts with the wood colour in many of the images. Green traditionally gives the impression of energy, safety and growth.
 
-![Colour Palate image](assets/readme-images/color-palate.png)
+![Colour Palate image](./assets/readme-images/color-palette.png)
 
 
 [Back to top](<#contents>)
+
 # Features
 
-Wawas Woods site is set up to be welcoming and easy to use. It contains many features that the user would probably be familiar with, such as a navigation bar and contact form. The overall feel of the website is intended to be inviting and not intimidating to encourage the user to explore further. 
+Restaurants site is set up to be welcoming and easy to use. It contains many features that the user would probably be familiar with, such as a navigation bar and contact form. The overall feel of the website is intended to be inviting and not intimidating to encourage the user to explore further. 
 
 ## Existing Features  
   * ### Navigation Menu
