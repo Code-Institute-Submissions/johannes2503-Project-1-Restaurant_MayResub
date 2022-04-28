@@ -34,11 +34,13 @@
         <div id="hero-image" ></div>
         <div id="cover-text"></div>
     </section>
-    <section>
-        <section id="contact">
-            <div class="contact-text"><h2>Contact Us</h2></div>
-            <div class="contact-form">
-                <form id="form-input" action="#">
+    <section id="contact">
+        <div class="contact-text"><h2>Online Reservations</h2>
+        </div>
+        <div class="contact-form">
+            <div class="left"></div> 
+            <div class="middle">
+                <form id="contact-form-input" action="#">
                     <label for="fname">First Name</label><br>
                     <input type="text" name="fname" id="fname" placeholder=" First Name" required><br>
                     <label for="lname">Last Name</label><br>
@@ -46,49 +48,51 @@
                     <label for="email">Email address</label><br>
                     <input type="email" name="email" id="email" placeholder=" Email" required><br>
                     <label for="info">Message</label><br>
-                   <textarea name="message" id="message" cols="28" rows="5" placeholder="Write your message here!"></textarea><br>
-                    <input type="submit" name="submit" id="submit" value="Send">
+                <textarea name="message" id="contact-message" cols="28" rows="5" placeholder="Write your message here!"></textarea><br>
+                    <input type="submit" name="submit" id="contact-submit" value="Send">
                 </form>
             </div>
-        </section>
-        <footer id="footer">
-            <div id="footer-text">
-                <h2>Contact Info</h2>
+            <div class="right"></div> 
+        </div>
+    </section>
+    <footer id="footer">
+        <div id="footer-text">
+            <h2>Contact Info</h2>
+        </div>
+        <div id="footer-cards">
+            <div class="footer-location footer-card">
+                <h3>Address</h3>
+                <br>
+                <h4>Stamphólsvegur 2</h4>
+                <h4>240 Grindavik - Iceland</h4>
             </div>
-            <div id="footer-cards">
-                <div class="footer-location footer-card">
-                    <h3>Address</h3>
-                    <br>
-                    <h4>Stamphólsvegur 2</h4>
-                    <h4>240 Grindavik - Iceland</h4>
-                </div>
-                <div class="footer-social footer-card">
-                    <h3>Opening hours</h3>
-                    <br>
-                    <h4>Mon-Fri 11:30-21:00</h4>
-                    <h4>Sat-Sun 17:00-21:00</h4>
-                    <div id="social">
-                        <ul id="social-links">
-                            <li>
-                                <a class="social-icon" href="https://www.facebook.com/" target="_blank"><i class="fa-brands fa-facebook"></i></a>
-                            </li>
-                            <li>
-                                <a class="social-icon" href="https://www.instagram.com" target="_blank"><i class="fa-brands fa-instagram"></i></a>
-                            </li>
-                            <li>
-                                <a class="social-icon" href="https://www.youtube.com" target="_blank"><i class="fa-brands fa-youtube"></i></a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="footer-contact footer-card">
-                    <h3>Telephone number:</h3>
-                    <br>
-                    <h4>+354-123-1234</h4>
-                    <h4>+354-321-4321</h4>
+            <div class="footer-social footer-card">
+                <h3>Opening hours</h3>
+                <br>
+                <h4>Mon-Fri 11:30-21:00</h4>
+                <h4>Sat-Sun 17:00-21:00</h4>
+                <div id="social">
+                    <ul id="social-links">
+                        <li>
+                            <a class="social-icon" href="https://www.facebook.com/" target="_blank"><i class="fa-brands fa-facebook"></i></a>
+                        </li>
+                        <li>
+                            <a class="social-icon" href="https://www.instagram.com" target="_blank"><i class="fa-brands fa-instagram"></i></a>
+                        </li>
+                        <li>
+                            <a class="social-icon" href="https://www.youtube.com" target="_blank"><i class="fa-brands fa-youtube"></i></a>
+                        </li>
+                    </ul>
                 </div>
             </div>
-        </footer>
-        <script src="https://kit.fontawesome.com/5ec5c06d06.js" crossorigin="anonymous"></script>
+            <div class="footer-contact footer-card">
+                <h3>Telephone number:</h3>
+                <br>
+                <h4>+354-123-1234</h4>
+                <h4>+354-321-4321</h4>
+            </div>
+        </div>
+    </footer>
+    <script src="https://kit.fontawesome.com/5ec5c06d06.js" crossorigin="anonymous"></script>
     </body>
     </html>

@@ -367,13 +367,26 @@ header {
     height: 580px;
 }
 
-.contact-form {
+.reservations-form {
     border-radius: 20px;
-    width: 50%;
+    width: 40%;
     height: 65%;
     margin: 20px auto;
     background-color: #9D8956;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
    
+}
+
+.left {
+    width: 20%;
+}
+.middle {
+    width: 75%;
+}
+.right {
+    width: 5%;
 }
 
 .reservations-text h2 {
@@ -384,25 +397,24 @@ header {
     padding-top: 2%;
 }
 
-#form-input {
-    text-align: center;
+#reservations-form-input {
     margin: 10px auto;
     padding: 20px;
     font-size: 0.9rem;
+    
 }
-
-#form-input input {
+  
+#reservations-form-input input {
     border: none;
     border-radius: 5px;
-    width: 40%;
-   height: 20px;
-   margin: 3px 0;
-
+    width: 80%;
+    height: 20px;
+    margin: 3px 0;
 }
 
-#message {
+#reservations-message {
     resize: none;
-    width: 40%;
+    width: 80%;
 }
 
 #submit {
@@ -424,11 +436,24 @@ header {
 
 .contact-form {
     border-radius: 20px;
-    width: 50%;
-    height: 55%;
+    width: 40%;
+    height: 65%;
     margin: 20px auto;
     background-color: #9D8956;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
    
+}
+
+.left {
+    width: 20%;
+}
+.middle {
+    width: 75%;
+}
+.right {
+    width: 5%;
 }
 
 .contact-text h2 {
@@ -439,36 +464,35 @@ header {
     padding-top: 2%;
 }
 
-#form-input {
-  margin: 10px auto;
-  padding: 20px;
-  font-size: 0.9rem;
-  text-align: center;
+#contact-form-input {
+    margin: 10px auto;
+    padding: 20px;
+    font-size: 0.9rem;
+    
 }
-
-#form-input input {
+  
+#contact-form-input input {
     border: none;
     border-radius: 5px;
-    width: 40%;
-   height: 20px;
-   margin: 3px 0;
-
-}
-#form-input textarea {
-    border-radius: 5px;
+    width: 80%;
+    height: 20px;
+    margin: 3px 0;
 }
 
-#submit {
+#contact-message {
+    resize: none;
+    width: 80%;
+}
+
+#contact-submit {
     background-color: #364933;
     color: #fff;
     
 }
 
-#message {
-    resize: none;
-    width: 40%;
+#form-input textarea {
+    border-radius: 5px;
 }
-
 /* Media queries */
 
 /* For larger to medium screens size from 1280px wide and down */
@@ -482,6 +506,8 @@ header {
 
 /* For medium screen sizes from 820px wide and down */
 @media screen and (max-width: 820px) {
+
+    /* Header section */
 
     #hero-outer {
         height: 300px;
@@ -507,9 +533,7 @@ header {
         background-size: cover;
         margin: 50px auto;
         width: 60%;
-        height: 40%;
-        
-        
+        height: 40%;  
     
     }
 
@@ -518,9 +542,80 @@ header {
         text-align: center;
         padding-bottom: 60px;
         margin: 0 auto;
-        width: 60%;
+        width: 60%; 
+    }
+
+    /* Menu section */
+
+    .menu-right {
+        
+        height: 650px;
         
     }
+
+    .menu-vegetarian-image {
+        height: 70%;
+    }
+
+    /* Reservations Section */
+
+    .reservations-form {
+        
+        width: 60%;
+        height: 70%;
+       
+    }
+
+    .left {
+        width: 20%;
+    }
+    .middle {
+        width: 75%;
+    }
+    .right {
+        width: 5%;
+    }
+
+    #reservations-form-input input {
+        width: 80%;
+
+    }
+  
+    #reservations-message {
+      width: 80%;
+
+    }
+
+    /* Contact Section */
+
+    .contact-form {
+        
+        width: 60%;
+        height: 70%;
+       
+    }
+
+    .left {
+        width: 20%;
+    }
+    .middle {
+        width: 75%;
+    }
+    .right {
+        width: 5%;
+    }
+
+    #contact-form-input input {
+        width: 80%;
+
+    }
+  
+    #contact-message {
+      width: 80%;
+
+    }
+
+    /* Reviews Section */
 
     #reviews {
         height: 1000px;
@@ -541,6 +636,8 @@ header {
     .cards {
         margin: 20px 0 20px 0;
     }
+
+    /* Footer Section */
 
     #footer {
         height: 180px;
@@ -581,6 +678,8 @@ header {
 
 /* For medium screen sizes from 480px wide and down */
 @media screen and (max-width: 480px) {
+
+    /* Header Section */
 
     header {
         width: 100%;
@@ -640,6 +739,131 @@ header {
         
     }
 
+     /* Reservations Section */
+
+     .reservations-text h2 {
+         font-size: 2rem;
+     }
+
+     .reservations-form {
+        width: 80%;
+        height: 70%;
+       
+    }
+
+    .left {
+        width: 3%;
+    }
+    .middle {
+        width: 90%;
+    }
+    .right {
+        width: 1%;
+    }
+    #reservations-form-input label {
+        font-size: 0.8rem;
+    }
+
+
+    #reservations-form-input input {
+        width: 90%;
+        font-size: 0.8rem;
+
+    }
+  
+    #reservations-message {
+      width: 90%;
+
+    }
+
+    /* Contact Section */
+
+    .contact-text h2 {
+        font-size: 2rem;
+    }
+
+    .contact-form {
+       width: 80%;
+       height: 70%;
+      
+   }
+
+   .left {
+       width: 3%;
+   }
+   .middle {
+       width: 90%;
+   }
+   .right {
+       width: 1%;
+   }
+   #contact-form-input label {
+       font-size: 0.8rem;
+   }
+
+
+   #contact-form-input input {
+       width: 90%;
+       font-size: 0.8rem;
+
+   }
+ 
+   #contact-message {
+     width: 90%;
+
+   }
+
+    /* Menu - Section */
+
+    .menu-left {
+        
+        flex-direction: column;
+        height: 900px;
+        
+    }
+    
+    .menu-section-left {
+        width: 100%;
+    }
+    
+    .menu-right {
+       
+        flex-direction: column-reverse;
+        height: 900px;
+        
+    }
+    
+    .menu-section-right {
+        width: 100%;
+    }
+    
+    .table {
+        width: 100%;
+        padding: 10% 10%;
+    }
+
+    table td {
+        font-size: 0.8rem;
+    }
+
+    
+    .menu-item h2 {
+        font-size: 2.5rem;
+
+    }
+    
+    
+  .images {
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    margin: 0 auto;
+  }
+    
+    
+
+    /* Reviews Section */
+
     #reviews {
         height: 1000px;
     }
@@ -658,6 +882,8 @@ header {
     .cards {
         margin: 20px 0 20px 0;
     }
+
+    /* Footer Section */
 
     #footer-cards {
         width: 100%;

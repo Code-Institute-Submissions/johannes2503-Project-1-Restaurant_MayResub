@@ -34,26 +34,30 @@
         <div id="hero-image" ></div>
         <div id="cover-text"></div>
     </section>
-    <section>
-        <section id="reservations">
-            <div class="reservations-text"><h2>Online Reservations</h2></div>
-            <div class="contact-form">
-                <form id="form-input" action="#">
-                    <label for="fname">First Name</label><br>
-                    <input type="text" name="fname" id="fname" placeholder=" First Name" required><br>
-                    <label for="lname">Last Name</label><br>
-                    <input type="text" name="lname" id="lname" placeholder=" Last Name" required><br>
-                    <label for="email">Email address</label><br>
-                    <input type="email" name="email" id="email" placeholder=" Email" required><br>
-                    <label for="date">Date and Time of Reservation</label><br>
-                    <input type="datetime-local" name="date" id="date"><br>
-                    <label for="info">Message</label><br>
-                   <textarea name="message" id="message" cols="28" rows="5" placeholder="Write your message here!"></textarea><br>
-                    <input type="submit" name="submit" id="submit" value="Send">
-                </form>
+    <section id="reservations">
+            <div class="reservations-text"><h2>Online Reservations</h2>
             </div>
-        </section>
-        <footer id="footer">
+            <div class="reservations-form">
+                <div class="left"></div> 
+                <div class="middle">
+                    <form id="reservations-form-input" action="#">
+                        <label for="fname">First Name</label><br>
+                        <input type="text" name="fname" id="fname" placeholder=" First Name" required><br>
+                        <label for="lname">Last Name</label><br>
+                        <input type="text" name="lname" id="lname" placeholder=" Last Name" required><br>
+                        <label for="email">Email address</label><br>
+                        <input type="email" name="email" id="email" placeholder=" Email" required><br>
+                        <label for="date">Date and Time of Reservation</label><br>
+                        <input type="datetime-local" name="date" id="date"><br>
+                        <label for="info">Message</label><br>
+                    <textarea name="message" id="reservations-message" cols="28" rows="5" placeholder="Write your message here!"></textarea><br>
+                        <input type="submit" name="submit" id="submit" value="Send">
+                    </form>
+                </div>
+                <div class="right"></div> 
+            </div>
+    </section>
+    <footer id="footer">
             <div id="footer-text">
                 <h2>Contact Info</h2>
             </div>
@@ -90,7 +94,7 @@
                     <h4>+354-321-4321</h4>
                 </div>
             </div>
-        </footer>
+    </footer>
         <script src="https://kit.fontawesome.com/5ec5c06d06.js" crossorigin="anonymous"></script>
     </body>
     </html>
