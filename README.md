@@ -86,15 +86,16 @@ Restaurants site is set up to be welcoming and easy to use. It contains many fea
     * Sited at the top of all the pages in the site, it is fully responsive and contains links to all the pages of the site to enable ease of navigation in one convenient location.
     * The logo is clickable with a link back to the home page for enhanced UX.
 
-![Navigation bar image](assets/readme-images/navbar.png)
+![Navigation bar image](./assets/readme-images/navbar.png)
+
 [Back to top](<#contents>)
 
-  * ### Gallery
+  * ### Owners Welcome
 
-      * Located on the home page beneath the title section. It was intended to make the title section relatively plain to enable a focus on the images in the gallery.
-      * A responsively styled grid of images of past projects to give the user an idea of what is possible. 
+      * Located on the home page beneath the title section. It is supposed to invite the user to have a enjoyable evening in the good hands of the owner.
+      
 
-![Gallery image](assets/readme-images/gallery3.png)
+![Gallery image](./assets/readme-images/owner-welcome.png)
 [Back to top](<#contents>)
 
   * ### About-Us
