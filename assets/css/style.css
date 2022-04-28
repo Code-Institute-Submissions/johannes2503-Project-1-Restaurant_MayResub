@@ -295,6 +295,7 @@ header {
 
 table td {
     border: 1px solid black;
+    width: 80%;
 }
 
 .heading {
