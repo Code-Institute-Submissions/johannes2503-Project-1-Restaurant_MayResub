@@ -199,7 +199,7 @@ Google Chrome, Microsoft Edge, Safari and Mozilla Firefox. Appearance, functiona
     * During validation two bugs became known during the validation stage, a brief description is below:
 
     * Home page - 
-    There was an error in the section for the hero-image. Had to change the </section> to a </div> to fix it.
+    There was an error in the section for the hero-image. Had to change the section to a div to fix it.
 
     * Menu page - 
     Had numerous bugs on the menu page. Had been using colspan="number" when I didn't have to. Took me quite a while to figure that one out. Fixed it by getting rid of it and then it was good to go.
