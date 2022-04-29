@@ -257,8 +257,7 @@ The method from cloning a project from GitHub is below:
 [Back to top](<#contents>)
 
 # Acknowledgements
-The site was completed as a Portfolio 1 Project piece for the Full Stack Software Developer (e-Commerce) Diploma at the [Code Institute](https://codeinstitute.net/). As such I would like to thank my mentor [Precious Ijege](https://www.linkedin.com/in/precious-ijege-908a00168/), the Slack community, and all at the Code Institute for their help and support. Also want to thank Ewan Colquhoun for the README.md template which this readme is based on.[Ewan Colquhoun](https://github.com/EwanColquhoun/wawaswoods/blob/master/README.md)
- Restaurant is a fictional restaurant based on my father in laws place. Which is located in my home town.  
+The site was completed as a Portfolio 1 Project piece for the Full Stack Software Developer (e-Commerce) Diploma at the [Code Institute](https://codeinstitute.net/). As such I would like to thank my mentor [Precious Ijege](https://www.linkedin.com/in/precious-ijege-908a00168/), the Slack community, and all at the Code Institute for their help and support. Also want to thank Ewan Colquhoun for the README.md template which this readme is based on.[Ewan Colquhoun](https://github.com/EwanColquhoun/wawaswoods/blob/master/README.md). Restaurant is a fictional restaurant based on my father in laws place. Which is located in my home town.  
 
 Johannes Hreinsson 2022.
 
