@@ -45,7 +45,7 @@ The wireframes for Restaurant were produced in [Figma](https://figma.com). There
 
 ## Site Structure
 
-Wawas Woods website has four pages. The [home page](./index.html) is the default loading page, [Menu page](./menu.html), [Reservations](./reservations.html) and [contact](./contact.html) pages are all accessible primarily from the navigation menu.
+Restaurant website has four pages. The [home page](./index.html) is the default loading page, [Menu page](./menu.html), [Reservations](./reservations.html) and [contact](./contact.html) pages are all accessible primarily from the navigation menu.
 
 [Back to top](<#contents>)
 
