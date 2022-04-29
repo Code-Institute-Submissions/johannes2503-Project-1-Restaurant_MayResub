@@ -17,23 +17,11 @@ Welcome to the journey through <a href="https://johannes2503.github.io/Project-1
 * [**Features**](<#features>)
     * [**Home**](<#navigation-menu>)
          * [Navigation menu](<#navigation-menu>)
-         * [Gallery](<#gallery>)
-         * [About-us](<#about-us>)
-         * [Testimonials](<#testimonials>)
+         * [Owners Welcome](<#owners-welcome>)
          * [Footer](<#footer>)
-    * [**Projects**](<#projects>)
-        * Dolls Cots
-        * Height Chart
-        * Walker
-    * [**Inspiration**](<#inspiration>)
-        * Elm
-        * Oak
-        * Elm
-    * [**Contact Us**](<#contact-us>)
-       * Contact details
-       * Location map
-       * Design Query form
-    * [**Form Confirmation**](<#form-confirmation>)
+         * [Menu page](<#menu-page>)
+         * [Reservations page](<#reservations-page>)
+         * [Contact us page](<#contact-us-page>)
     * [**Future Features**](<#future-features>)
 * [**Technologies Used**](<#technologies-used>)
 * [**Testing**](<#testing>)
