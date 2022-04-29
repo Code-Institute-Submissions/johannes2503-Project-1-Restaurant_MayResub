@@ -290,12 +290,10 @@ header {
 .table {
     width: 100%;
     padding: 5% 10%;
-    border: 1px solid black;
+
 }
 
 table td {
-    border: 1px solid black;
-  
     font-size: 0.9rem;
 }
 

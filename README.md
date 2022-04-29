@@ -164,29 +164,25 @@ Restaurants site is set up to be welcoming and easy to use. It contains many fea
 # Testing
 
 ## Code Validation
-The Wawas Woods site has be throughly tested. All the code has been run through the [W3C html Validator](https://validator.w3.org/) and the [W3C CSS Validator](https://jigsaw.w3.org/css-validator/). Minor errors were found on the home and inspiration pages. After a fix and retest, no errors were returned for both. 
+The Restaurant site has be throughly tested. All the code has been run through the [W3C html Validator](https://validator.w3.org/) and the [W3C CSS Validator](https://jigsaw.w3.org/css-validator/). Errors were found on the home and menu pages. After a fix and retest, no errors were returned for both. 
 
 The HTML validator results for each page are below:
 
 * Home page
 
-![W3C Validator test result](assets/readme-images/w3ctesting.png)
+![W3C Validator test result](./assets/readme-images/html-testing.png)
 
-* Projects page
+* Menu page
 
-![W3C Validator test result](assets/readme-images/w3ctesting.png)
+![W3C Validator test result](./assets/readme-images/html-testing.png)
 
-* Inspiration page
+* Reservations page
 
-![W3C Validator test result](assets/readme-images/w3ctesting.png)
+![W3C Validator test result](./assets/readme-images/html-testing.png)
 
 * Contact page
 
-![W3C Validator test result](assets/readme-images/w3ctesting.png)
-
-* Form valiadtion page
-
-![W3C Validator test result](assets/readme-images/w3ctesting.png)
+![W3C Validator test result](./assets/readme-images/html-testing.png)
 
 The CSS validator results are below:
 
